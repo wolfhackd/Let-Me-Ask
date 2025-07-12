@@ -53,11 +53,15 @@ git clone https://github.com/seu-usuario/let-me-ask.git
 cd let-me-ask
 ```
 
-### 2. Configure e rode o Back-end
-
+### 2. Configure o .env
 ```bash
 cd backend
 cp .env.example .env
+```
+
+### 2. Configure e rode o Back-end
+
+```bash
 docker compose up -d
 npm install
 npm run dev
