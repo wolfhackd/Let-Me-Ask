@@ -75,6 +75,6 @@ npm run dev
 
 ## Estrutura do Projeto
 
-let-me-ask/
-├── frontend/ # React + Vite + Tailwind + React Query + IA
-├── backend/ # Fastify + PostgreSQL + Drizzle ORM + API do Gemini
+let-me-ask/<br>
+├── frontend/ # React + Vite + Tailwind + React Query + IA<br>
+├── backend/ # Fastify + PostgreSQL + Drizzle ORM + API do Gemini<br>
