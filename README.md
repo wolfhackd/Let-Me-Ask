@@ -55,18 +55,22 @@ cd let-me-ask
 
 ### 2. Configure e rode o Back-end
 
+```bash
 cd backend
 cp .env.example .env
 docker compose up -d
 npm install
 npm run dev
+```
 
 ### 3. Configure e rode o Front-end
 
+```bash
 cd ../frontend
 cp .env.example .env
 npm install
 npm run dev
+```
 
 ---
 
