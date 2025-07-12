@@ -63,6 +63,7 @@ cp .env.example .env
 
 ```bash
 docker compose up -d
+npx drizzle-kit push
 npm install
 npm run dev
 ```
