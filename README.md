@@ -59,7 +59,7 @@ cd backend
 cp .env.example .env
 ```
 
-### 2. Configure e rode o Back-end
+### 3. Configure e rode o Back-end
 
 ```bash
 docker compose up -d
@@ -67,7 +67,7 @@ npm install
 npm run dev
 ```
 
-### 3. Configure e rode o Front-end
+### 4. Configure e rode o Front-end
 
 ```bash
 cd ../frontend
