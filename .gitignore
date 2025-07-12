@@ -1,0 +1,17 @@
+# Global
+node_modules
+.env
+dist
+build
+
+# IDEs
+.vscode
+.idea
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema
+.DS_Store
+Thumbs.db
